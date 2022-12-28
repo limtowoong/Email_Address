@@ -1,6 +1,6 @@
 # Email_Address
 
-<br><br><br>
+<br>
 
 ```javascript
 var userEmail = prompt("당신의 이메일 주소를 적어주세요.","");
